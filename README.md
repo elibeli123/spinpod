@@ -398,20 +398,6 @@ trial,
 ```
 
 The `trial` field identifies the illumination condition, such as a baseline measurement or one of the five LED wavelengths.
-
----
-
-# Results
-
-The completed system:
-
-- Operated autonomously for more than 24 hours
-- Increased experimental throughput by 8×
-- Reduced system cost by approximately 90%
-- Produced measurements with R² > 0.99 compared with reference instrumentation
-
-Development and validation focused on optical alignment, communication reliability, measurement timing, system integration, and repeatability.
-
 ---
 
 # Project Context
